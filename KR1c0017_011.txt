@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:37
+#+DATE: 2015-09-11 23:42:40.975462
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB05n0579-011吕氏家塾讀詩記-卷十一.
 <pb:KR1c0017_SBCK_011-1a>¶
 吕氏家塾讀詩記卷第十一¶
 唐¶
@@ -427,4 +431,3 @@
 唐國十二篇三十三章二百三句¶
 吕氏家塾讀詩記卷第十一¶
 <pb:KR1c0017_SBCK_011-22b>¶
-

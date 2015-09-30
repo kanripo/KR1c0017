@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:38
+#+DATE: 2015-09-11 23:42:41.720652
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 26
+#+PROPERTY: FILE SB05n0579-026吕氏家塾讀詩記-卷二十六.
 <pb:KR1c0017_SBCK_026-1a>¶
 吕氏家塾讀詩記卷第二十六¶
 生民之什¶
@@ -996,4 +1000,3 @@
 生民之什十篇六十四章四百三十三句¶
 吕氏家塾讀詩記卷第二十六¶
 <pb:KR1c0017_SBCK_026-51a>¶
-

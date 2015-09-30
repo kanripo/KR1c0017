@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:37
+#+DATE: 2015-09-11 23:42:40.797431
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB05n0579-007吕氏家塾讀詩記-卷七.
 <pb:KR1c0017_SBCK_007-1a>¶
 吕氏家塾讀詩記卷第七¶
 王¶
@@ -309,4 +313,3 @@
 王國十篇二十八章百六十二句¶
 吕氏家塾讀詩記卷第七¶
 <pb:KR1c0017_SBCK_007-16b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:37
+#+DATE: 2015-09-11 23:42:40.516466
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB05n0579-001吕氏家塾讀詩記-卷一.
 <pb:KR1c0017_SBCK_001-1a>¶
 吕氏家塾讀詩記卷第一¶
 　　　綱領¶
@@ -531,4 +535,3 @@
 家解低一字寫¶
 <pb:KR1c0017_SBCK_001-27b>¶
 吕氏家塾讀詩記卷第一¶
-

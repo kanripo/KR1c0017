@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:37
+#+DATE: 2015-09-11 23:42:40.934142
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB05n0579-010吕氏家塾讀詩記-卷十.
 <pb:KR1c0017_SBCK_010-1a>¶
 吕氏家塾讀詩記卷第十¶
 魏¶
@@ -240,4 +244,3 @@
 　　　碩䑕三章章八句¶
 魏國七篇十八章百二十八句¶
 吕氏家塾讀詩記卷第十¶
-

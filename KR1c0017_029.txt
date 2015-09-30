@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:38
+#+DATE: 2015-09-11 23:42:41.895062
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 29
+#+PROPERTY: FILE SB05n0579-029吕氏家塾讀詩記-卷二十九.
 <pb:KR1c0017_SBCK_029-1a>¶
 吕氏家塾讀詩記卷第二十九¶
 臣工之什¶
@@ -263,4 +267,3 @@
 臣工之什十篇十章一百六句¶
 吕氏家塾讀詩記卷第二十九¶
 <pb:KR1c0017_SBCK_029-14a>¶
-

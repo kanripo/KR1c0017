@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:37
+#+DATE: 2015-09-11 23:42:41.662307
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 25
+#+PROPERTY: FILE SB05n0579-025吕氏家塾讀詩記-卷二十五.
 <pb:KR1c0017_SBCK_025-1a>¶
 吕氏家塾讀詩記卷第二十五¶
 正大雅¶
@@ -1249,4 +1253,3 @@
 文王之什十篇六十六章四百一十四句¶
 吕氏家塾讀詩記卷第二十五¶
 <pb:KR1c0017_SBCK_025-64b>¶
-

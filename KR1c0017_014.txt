@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:37
+#+DATE: 2015-09-11 23:42:41.113194
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB05n0579-014吕氏家塾讀詩記-卷十四.
 <pb:KR1c0017_SBCK_014-1a>¶
 吕氏家塾讀詩記卷第十四¶
 檜¶
@@ -140,4 +144,3 @@
 　　　匪風三章章四句¶
 檜國四篇十二章四十五句¶
 吕氏家塾讀詩記卷第十四¶
-

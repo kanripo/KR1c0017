@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:37
+#+DATE: 2015-09-11 23:42:40.487314
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB05n0579-000吕氏家塾讀詩記-序.
 <pb:KR1c0017_SBCK_000-1a>¶
 吕氏家塾讀詩記序¶
 詩自齊魯韓氏之&KR0003;不傳而天下之學者盡宗毛¶
@@ -38,4 +42,3 @@
 也乃略爲之&KR0003;因并附其所疑者以與四方同志¶
 之士共之而又以識予之悲恨云爾淳熈壬寅九¶
 月已夘新安朱熹序¶
-

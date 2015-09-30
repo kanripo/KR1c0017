@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:38
+#+DATE: 2015-09-11 23:42:42.028917
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 32
+#+PROPERTY: FILE SB05n0579-032吕氏家塾讀詩記-卷三十二.
 <pb:KR1c0017_SBCK_032-1a>¶
 吕氏家塾讀詩記卷第三十二¶
 商頌¶
@@ -370,4 +374,3 @@
 　事父則扵聖學之門之豈小補¶
 　哉淳熈壬寅重陽後一日錫¶
 　山&KR0057;衺書¶
-

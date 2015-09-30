@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:37
+#+DATE: 2015-09-11 23:42:41.398282
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB05n0579-020吕氏家塾讀詩記-卷二十.
 <pb:KR1c0017_SBCK_020-1a>¶
 吕氏家塾讀詩記卷第二十¶
 祈父之什¶
@@ -1067,4 +1071,3 @@
 祈父之什十篇六十四章四百二十八句¶
 吕氏家塾讀詩記卷第二十¶
 <pb:KR1c0017_SBCK_020-54b>¶
-

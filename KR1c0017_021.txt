@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:37
+#+DATE: 2015-09-11 23:42:41.452329
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 21
+#+PROPERTY: FILE SB05n0579-021吕氏家塾讀詩記-卷二十一.
 <pb:KR1c0017_SBCK_021-1a>¶
 吕氏家塾讀詩記卷第二十一¶
 小旻之什¶
@@ -913,4 +917,3 @@
 小旻之什十篇六十五章四百十四句¶
 吕氏家塾讀詩記卷第二十一¶
 <pb:KR1c0017_SBCK_021-47b>¶
-

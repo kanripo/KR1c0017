@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:37
+#+DATE: 2015-09-11 23:42:40.615027
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB05n0579-003吕氏家塾讀詩記-卷三.
 <pb:KR1c0017_SBCK_003-1a>¶
 吕氏家塾讀詩記卷第三¶
 召南¶
@@ -428,4 +432,3 @@
 吕氏家塾讀詩記卷第三¶
 <pb:KR1c0017_SBCK_003-22b>¶
 <pb:KR1c0017_SBCK_003-22b>¶
-

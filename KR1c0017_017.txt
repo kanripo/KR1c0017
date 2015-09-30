@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏家塾讀詩記
-#+DATE: 2015-09-23 09:36:37
+#+DATE: 2015-09-11 23:42:41.249608
+#+PROPERTY: ID KR1c0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 17
+#+PROPERTY: FILE SB05n0579-017吕氏家塾讀詩記-卷十七.
 <pb:KR1c0017_SBCK_017-1a>¶
 吕氏家塾讀詩記卷第十七¶
 正小雅(正大雅&KR0003;附)¶
@@ -920,4 +924,3 @@
 鹿鳴之什十篇五十五章三百一十五句¶
 吕氏家塾讀詩記卷第十七¶
 <pb:KR1c0017_SBCK_017-47a>¶
-
